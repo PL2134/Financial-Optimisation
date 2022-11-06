@@ -120,7 +120,7 @@ Once the clone completes..
 
 Execute 'Jupyter notebook' command
 
-In the Jupyter notebook interface, open the file 'project_one_final_05112022.ipynb'
+In the Jupyter notebook interface, open the file 'project_one_final.ipynb'
 
 
 
