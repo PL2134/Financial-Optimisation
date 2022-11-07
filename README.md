@@ -24,10 +24,18 @@
 
    Our initial theory that Real Estate is a good asset against inflation is not true. 
 
-   The code downloads the data of 4 portfolios - AGG (Treasury Bonds ETF), VNQ (Real Estate), GLD (Gold) and SPY (S&P 500) and performs thorough data analysis, after which, we found that S&P 500 is the best performing asset for investment for the risk-seeking investors with the highest Sharpe ratio followed by Gold.
+   The code downloads the data of 4 portfolios - AGG (Treasury Bonds ETF), VNQ (Real Estate), GLD (Gold) and SPY (S&P 500) and performs thorough data analysis, after which, we found that S&P 500 is the best performing asset for investment for the risk-seeking investors with the highest Sharpe ratio followed by Gold. Please refer to the plot and numbers below:
+
+   ![Alt text](sharpe_ratios.png)
+
+   ![Alt text](sharpe_ratios_number.png)
 
    Our data analysis also concluded that Real Estate and Bonds are not good investment. Especially the bonds, as it could not even give us a return that could make up for the growth in the price of goods due to inflation.
    
+	![Alt text](Monte_Carlo_Summary.png)
+   
+	![Alt text](inflation_outcome.png)
+
    In addition, if an investor is considering both risk and return, we will recommend a diversified portfolio, which contains all four assets mentioned above, each weights 25%.
 
 ## Introduction
